@@ -8,7 +8,7 @@ I test payment flows for a living, so I treat a casino cashier the way I'd treat
 
 | File | What it is |
 |---|---|
-| `data/doge-cashier-test-2026-10-01.csv` | One row per casino, the round run on 1 October 2026 |
+| `data/doge-cashier-test-2026-10-01.csv` | One row per casino: nine runs on 1 October 2026, and Wild.io on 26 October 2026, after it replaced Lucky Rollers (`test_date` column) |
 | `data/doge-cashier-test-2026-10-01.json` | The same data as JSON |
 | `METHODOLOGY.md` | How a score is built: start at 10, subtract fixed amounts |
 
