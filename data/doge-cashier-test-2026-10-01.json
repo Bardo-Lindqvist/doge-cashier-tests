@@ -76,6 +76,31 @@
   },
   {
     "rank": 4,
+    "casino": "Wild.io",
+    "score_out_of_10": 9.3,
+    "test_date": "2026-10-26",
+    "doge_networks_in_cashier": "Dogecoin",
+    "balance_held_in": "DOGE",
+    "doge_withdrawal": "Yes, native",
+    "min_withdrawal": "$3.94 (~51 DOGE that day)",
+    "withdrawal_fee": "0.52151198 DOGE, from the request",
+    "deposit_sent_utc": "18:09:12",
+    "deposit_credited_utc": "18:16:20",
+    "deposit_minutes": 7,
+    "confirmations_at_credit": 6,
+    "balance_after_500_doge": "500.00000000 DOGE",
+    "withdrawal_requested": "481 DOGE",
+    "withdrawal_request_utc": "19:02:00",
+    "withdrawal_approved_utc": "~19:06",
+    "withdrawal_arrived_utc": "~19:10",
+    "withdrawal_minutes": "about 8",
+    "doge_received": "480.47848802",
+    "documents_requested": "none",
+    "support_minutes_to_human": 4,
+    "review": "https://dogecasino.best/#wild-io"
+  },
+  {
+    "rank": 5,
     "casino": "Bets.io",
     "score_out_of_10": 9.1,
     "test_date": "2026-10-01",
@@ -100,7 +125,7 @@
     "review": "https://dogecasino.best/#betsio"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "casino": "Vave",
     "score_out_of_10": 8.8,
     "test_date": "2026-10-01",
@@ -125,7 +150,7 @@
     "review": "https://dogecasino.best/#vave"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "casino": "Cocobet",
     "score_out_of_10": 8.7,
     "test_date": "2026-10-01",
@@ -150,7 +175,7 @@
     "review": "https://dogecasino.best/#cocobet"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "casino": "Cybet",
     "score_out_of_10": 8.6,
     "test_date": "2026-10-01",
@@ -175,7 +200,7 @@
     "review": "https://dogecasino.best/#cybet"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "casino": "FortuneJack",
     "score_out_of_10": 8.4,
     "test_date": "2026-10-01",
@@ -200,7 +225,7 @@
     "review": "https://dogecasino.best/#fortunejack"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "casino": "Rainbet",
     "score_out_of_10": 8.1,
     "test_date": "2026-10-01",
@@ -223,30 +248,5 @@
     "documents_requested": "none",
     "support_minutes_to_human": 4,
     "review": "https://dogecasino.best/#rainbet"
-  },
-  {
-    "rank": 10,
-    "casino": "Lucky Rollers",
-    "score_out_of_10": 7.1,
-    "test_date": "2026-10-01",
-    "doge_networks_in_cashier": "Dogecoin",
-    "balance_held_in": "EUR",
-    "doge_withdrawal": "Yes, native",
-    "min_withdrawal": "€30 (~$35)",
-    "withdrawal_fee": "None, network only",
-    "deposit_sent_utc": "10:17:18",
-    "deposit_credited_utc": "10:21:30",
-    "deposit_minutes": 4,
-    "confirmations_at_credit": 3,
-    "balance_after_500_doge": "€39.93",
-    "withdrawal_requested": "€36.75",
-    "withdrawal_request_utc": "10:50:00",
-    "withdrawal_approved_utc": "10:59:00",
-    "withdrawal_arrived_utc": "11:04:00",
-    "withdrawal_minutes": 14,
-    "doge_received": "448.94",
-    "documents_requested": "none",
-    "support_minutes_to_human": 8,
-    "review": "https://dogecasino.best/#lucky-rollers"
   }
 ]
